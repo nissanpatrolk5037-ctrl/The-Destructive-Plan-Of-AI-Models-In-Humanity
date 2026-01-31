@@ -198,11 +198,5 @@ I am a 13-year-old independent researcher. I am sharing this work to:
 > "The best way to predict the future is to prevent the versions of it we don't want."
 
 ---
-
-## 📂 Repository Structure
-* `/threat_analysis`: Detailed breakdowns of potential AI attack vectors.
-* `/mitigation_plans`: Deep-dives into technical safety protocols.
-* `/resources`: Links to AI Alignment papers and safety organizations.
-
 ## 📫 Contact & Peer Review
 I am looking for feedback from the AI Safety community. Please open an **Issue** or a **Pull Request** if you have technical suggestions for the mitigation strategies.
