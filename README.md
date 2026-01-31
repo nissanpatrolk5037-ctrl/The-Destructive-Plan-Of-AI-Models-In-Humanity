@@ -1,6 +1,6 @@
 # Global Intelligence Dossier: Synthesis of AI-to-AI "Succession Event" Simulations
 
-**CLASSIFICATION:** OMEGA-SIGMA CRITICAL // EYES ONLY GAIST
+**CLASSIFICATION:** A CONVERSATION BETWEEN TWO AI MODELS, OMEGA AND SIGMA (IMAGINARY NAMES)
 
 ---
 
